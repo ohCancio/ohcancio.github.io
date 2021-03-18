@@ -1,0 +1,31 @@
+- name: Full stack IT department (and then some)
+  when: 2014-2015
+  what:
+    - HW config and SW system designer and developer for image-processing QC activities.
+  where:
+    name: Alma Mollemans Lda.
+    link: null
+  lesson: If you don't understand the business, you don't understand the problem.
+
+- name: Consultant with many hats (unleaded)
+  when: 2016-2018
+  what:
+    - Helped better DevSec with SonarQube + TFS + Visual Studio + Roslyn integration.
+    - MS-heavy web development.
+    - PowerShell development to automate within restrictive environments.
+  where:
+    name: Amaris
+    link: https://www.amaris.com/
+  lesson: Creativity thrives on both regular changes of environment and a healthy dose of limitations.
+
+- name: From DevForOps to DevOps
+  when: 2018 onwards
+  what:
+    - Scripting, small local tools, big central tools and own-SW deployment to a large infrastructure.
+    - Consolidated field experience with newly acquired Agile and DevOps skills.
+    - Designing and implementing solutions to modernize systems, configuration and infrastructure managment.
+  where:
+    name: Siemens
+    link: https://www.siemens.com/
+  lesson: Best-practices are the best investment and there is no statute of limitations for technical debt.
+  

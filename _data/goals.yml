@@ -1,0 +1,6 @@
+- name: Become an Azure Solutions Architect Expert
+  link: https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/
+  progress_percent: 3
+- name: Create an active heatsink for rabbits
+  link: assets/images/RabbitHeatsinkDraft.png
+  progress_percent: 5

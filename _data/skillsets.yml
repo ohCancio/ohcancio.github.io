@@ -1,0 +1,29 @@
+- name: Roles
+  keywords:
+    - software developer
+    - solutions architect
+    - devil's advocate
+
+- name: Practices
+  keywords:
+    - DevOps
+    - Agile
+    - ITIL
+
+- name: Automation Tools
+  keywords:
+    - Azure DevOps & TFS
+    - Ansible Tower
+    - Cloudbolt
+
+- name: Scripting and Development
+  keywords:
+    - PowerShell
+    - Python
+    - Visual Studio & VSCode
+
+- name: IRL
+  keywords:
+    - woodworking
+    - finance
+    - rabbits
