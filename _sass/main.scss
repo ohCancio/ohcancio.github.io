@@ -1,0 +1,25 @@
+$bg-color:    lighten($color: #000000, $amount: 10);
+$text-color:  darken($color: #ffffff, $amount: 20);
+$link-color:  darken($color: #ffffff, $amount: 20);
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+body {
+    color: $text-color;
+    background-color: $bg-color;
+}
+
+a:link {
+    color: lightskyblue;
+}
+
+a:visited {
+    color: salmon;
+}
+
+.footer {
+    text-align: center;
+}

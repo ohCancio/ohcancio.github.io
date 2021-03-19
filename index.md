@@ -24,7 +24,11 @@ title: Ricardo Silva
 {% for what in job.what %}
 - 🛠 {{ what }}
 {% endfor %}
-🏢 [{{ job.where.name }}]({{ job.where.link }}])
+{% if job.where.link %}
+🏢 [{{ job.where.name }}]({{ job.where.link }})
+{% else %}
+🏢 {{ job.where.name }}
+{% endif %}
 
 💡 {{ job.lesson }}
 {% endfor %}
@@ -37,3 +41,5 @@ title: Ricardo Silva
 - {{ keyword }}
 {% endfor %}
 {% endfor %}
+
+---
