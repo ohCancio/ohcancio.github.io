@@ -5,10 +5,12 @@ title: Ricardo Silva
 
 ---
 
+![profile picture](assets/images/profile_picture.jpeg)
+
 ## About me
 📍 {{ site.data.bio.location }}
 
-ℹ️ {{ site.data.bio.about }}
+{{ site.data.bio.about }}
 
 ## Goals
 
@@ -20,15 +22,15 @@ title: Ricardo Silva
 
 {% for job in site.data.jobs %}
 ### {{ job.name }}
-📅 {{ job.when }}
-{% for what in job.what %}
-- 🛠 {{ what }}
-{% endfor %}
-{% if job.where.link %}
+📅 {{ job.when }} {% if job.where.link %}
 🏢 [{{ job.where.name }}]({{ job.where.link }})
 {% else %}
 🏢 {{ job.where.name }}
 {% endif %}
+
+{% for what in job.what %}
+- {{ what }}
+{% endfor %}
 
 💡 {{ job.lesson }}
 {% endfor %}
