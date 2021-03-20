@@ -5,7 +5,11 @@ title: Ricardo Silva
 
 ---
 
-![profile picture](assets/images/profile_picture.jpeg)
+![profile picture](assets/images/profile_picture_border.jpeg)
+
+[![profile picture](assets/images/logo_github_mark.png)](https://github.com/ohCancio)
+[![profile picture](assets/images/logo_linkedin_ln.png)](https://www.linkedin.com/in/ricardo-c%C3%A2ncio-silva-43860830/)
+[![profile picture](assets/images/logo_twitter_social.png)](https://twitter.com/ohCancio)
 
 ## About me
 📍 {{ site.data.bio.location }}

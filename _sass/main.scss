@@ -7,6 +7,7 @@ body {
     margin: 0 auto;
     color: $text-color;
     background-color: $bg-color;
+    font-family: Verdana, sans-serif;
 }
 
 a:link {
@@ -15,10 +16,6 @@ a:link {
 
 a:visited {
     color: salmon;
-}
-
-img {
-    height: 150px;
 }
 
 .footer {
