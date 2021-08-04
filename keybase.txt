@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ohcancio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ohcancio.github.io
+  * I am ohcancio (https://keybase.io/ohcancio) on keybase.
+  * I have a public key ASDfHLE8nRYAOdf_C-3tPaDg7wF2O08jCPhWtH_xgFv-qwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120df1cb13c9d160039d7ff0beded3da0e0ef01763b4f2308f856b47ff1805bfeab0a",
+      "host": "keybase.io",
+      "kid": "0120df1cb13c9d160039d7ff0beded3da0e0ef01763b4f2308f856b47ff1805bfeab0a",
+      "uid": "1a2f10b54827fbb31f5a2df5c7c65119",
+      "username": "ohcancio"
+    },
+    "merkle_root": {
+      "ctime": 1628087051,
+      "hash": "5b53ac18b1f346aecb1fa5ec2f7fb0cd45bf4be8a3007d1530c474f7ef8644cdca4b42c7f0a4375eda48fc74cada511e1c8021dbee0de868ace703b4bf45fe15",
+      "hash_meta": "e53b1f7068ece94e11001831a3d9f637f074474f093a2a43435dc7e56e95884e",
+      "seqno": 20504197
+    },
+    "service": {
+      "entropy": "hY29d9Ozc1VCfR2rQgqQ5QpC",
+      "hostname": "ohcancio.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1628087193,
+  "expire_in": 504576000,
+  "prev": "b48b8ade17b29feb9db4600764f54a7d10d3d963d32762497013af9a41a85f79",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3xyxPJ0WADnX/wvt7T2g4O8BdjtPIwj4VrR/8YBb/qsKp3BheWxvYWTESpcCD8QgtIuK3heyn+udtGAHZPVKfRDT2WPTJ2JJcBOvmkGoX3nEIOBAXDKgkiBEWlEbxWlYZTVn/Xh0r2hL/iiU1lNaBvxSAgHCo3NpZ8RASQvvarP4PW3sAx3OlzM5s2GrfPoNkhkBklwg+nF8a6BdpeH26P/hN9/ZW+U77kiDtoxMsH/pZyqiA2rS+PtUDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE2oH6t/b5zxNVvrqYEJzwTmr0DDgyb56UU62KxxwMAJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ohcancio
+
+==================================================================
