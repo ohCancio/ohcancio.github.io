@@ -7,9 +7,10 @@ title: Ricardo Silva
 
 ![profile picture](assets/images/profile_picture_border.jpeg)
 
-[![profile picture](assets/images/logo_github_mark.png)](https://github.com/ohCancio)
-[![profile picture](assets/images/logo_linkedin_ln.png)](https://www.linkedin.com/in/ohcancio)
-[![profile picture](assets/images/logo_twitter_social.png)](https://twitter.com/ohCancio)
+[![logo github](assets/images/logo_github_mark.png)](https://github.com/ohCancio)
+[![logo keybase](assets/images/logo_keybase.png)](https://keybase.io/ohcancio)
+[![logo linkedin](assets/images/logo_linkedin_ln.png)](https://www.linkedin.com/in/ohcancio)
+[![logo twitter](assets/images/logo_twitter_social.png)](https://twitter.com/ohCancio)
 
 ## About me
 📍 {{ site.data.bio.location }}
